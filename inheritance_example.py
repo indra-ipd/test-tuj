@@ -30,3 +30,6 @@ phone1 = Phone("iPhone14", "Blue", 64)
 phone1.details()
 
 print("--------------------------------------------")
+
+laptop2 = Laptop("Chrome book pro", "black", "1")
+laptop2.details()
