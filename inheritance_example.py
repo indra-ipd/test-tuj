@@ -30,3 +30,4 @@ phone1 = Phone("iPhone14", "Blue", 64)
 phone1.details()
 
 print("--------------------------------------------")
+print("Kuya")
