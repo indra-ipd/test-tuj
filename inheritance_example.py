@@ -23,6 +23,8 @@ laptop1 = Laptop("macbook 15", "silver", "2")
 laptop1.details()
 laptop1.get_info()
 
+# Wint's contribution uh hello world
+
 print("--------------------------------------------")
 print("Example of Phone Instance")
 # instance for phone
