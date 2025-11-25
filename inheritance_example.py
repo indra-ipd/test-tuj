@@ -23,10 +23,17 @@ laptop1 = Laptop("macbook 15", "silver", "2")
 laptop1.details()
 laptop1.get_info()
 
+laptop2 = Laptop("Asus Rog 23", "black", "1")
+laptop2.details()
+laptop2.get_info()
+
 print("--------------------------------------------")
 print("Example of Phone Instance")
 # instance for phone
 phone1 = Phone("iPhone14", "Blue", 64)
 phone1.details()
+
+phone2 = Phone("iPhone13", "Navy", 64)
+phone2.details
 
 print("--------------------------------------------")
