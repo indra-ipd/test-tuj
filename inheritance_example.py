@@ -24,9 +24,26 @@ laptop1.details()
 laptop1.get_info()
 
 print("--------------------------------------------")
+# instance for laptop 2
+laptop2 = Laptop("Jason Probook", "White", "256")
+laptop2.details()
+laptop2.get_info()
+
+print("--------------------------------------------")
+# instance for laptop 3
+laptop3 = Laptop("Jason Probook", "White", "256")
+laptop3.details()
+laptop3.get_info()
+
+print("--------------------------------------------")
 print("Example of Phone Instance")
 # instance for phone
 phone1 = Phone("iPhone14", "Blue", 64)
 phone1.details()
 
 print("--------------------------------------------")
+
+print("Example of Phone Instance")
+# instance for phone
+phone2 = Phone("Jason Phone1", "Red", 128)
+phone2.details()
