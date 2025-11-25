@@ -30,3 +30,8 @@ phone1 = Phone("iPhone14", "Blue", 64)
 phone1.details()
 
 print("--------------------------------------------")
+
+class ASML_Factory_Machine(Phone):
+    def get_machine(self):
+        print('test this for semiconductor factory machines')
+        print(n\'color',color)
