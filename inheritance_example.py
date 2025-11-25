@@ -34,6 +34,6 @@ print("--------------------------------------------")
 class ASML_Factory_Machine(Phone):
     def get_machine(self):
         print('test this for semiconductor factory machines')
-        print(n\'color',color)
+        print(n\'color',color)#making a new change with this comment
 
 
